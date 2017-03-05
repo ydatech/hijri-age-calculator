@@ -1,0 +1,38 @@
+.App-content{
+  display:flex;
+  flex-flow: column wrap;
+  padding-top: 65px;
+  align-items: center;
+}
+
+.App-result{
+  border: 1px solid #689F38;
+  width: inherit;
+  height: inherit;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+.App-ad{
+  width:320px;
+ 
+ 
+}
+.App-age{
+
+}
+.App-dob{
+
+}
+.App-age-result{
+  font-size: 12px;
+}
+.App-age-number{
+  font-size: 60px;
+  color : #33691E;
+}
+.App-dob-hijri{
+  color: #33691E;
+  font-size: 22px;
+}

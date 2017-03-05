@@ -1,0 +1,8 @@
+.Share__container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: inherit;
+    height: inherit;
+}
